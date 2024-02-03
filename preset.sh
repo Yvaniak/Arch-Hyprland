@@ -17,11 +17,11 @@ gtk_themes="Y"
 ###-Do you want to configure Bluetooth?
 bluetooth="Y"
 ###-Do you want to install Thunar file manager?
-thunar="Y"
+thunar="N"
 ###-Install & configure SDDM log-in Manager plus (OPTIONAL) SDDM Theme?
 sddm="Y"
 ###-Install XDG-DESKTOP-PORTAL-HYPRLAND? (For proper Screen Share ie OBS)
-xdph="Y"
+xdph="N"
 ###-Install zsh, oh-my-zsh & (Optional) pokemon-colorscripts?
 zsh="Y"
 ###-Installing in a Asus ROG Laptops?
