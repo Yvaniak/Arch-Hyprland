@@ -10,7 +10,12 @@ plugins=(
     archlinux
     zsh-autosuggestions
     zsh-syntax-highlighting
+    fzf
 )
+
+alias vs='vscodium'
+
+export EDITOR=nvim
 
 source $ZSH/oh-my-zsh.sh
 
